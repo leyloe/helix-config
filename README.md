@@ -1,2 +1,4 @@
 # helix-config
-my config for helix editor
+```
+git clone https://github.com/fu3x11/helix-config ~/.config/nvim
+```
