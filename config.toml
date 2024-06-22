@@ -9,5 +9,9 @@ line-number = "relative"
 esc = ["collapse_selection", "keep_primary_selection"]
 C-g = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
 
+[keys.normal.space]
+f = "file_picker_in_current_directory"
+F = "file_picker" 
+
 [editor.cursor-shape]
 insert = "bar"
