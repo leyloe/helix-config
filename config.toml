@@ -16,8 +16,9 @@ F = "file_picker"
 [editor.cursor-shape]
 insert = "bar"
 
-[editor.whitespace]
-render = "all"
+[editor.whitespace.render]
+space = "all"
+tab = "all"
 
 [editor.indent-guides]
 render = true
