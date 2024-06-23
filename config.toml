@@ -15,3 +15,6 @@ F = "file_picker"
 
 [editor.cursor-shape]
 insert = "bar"
+
+[editor.whitespace]
+render = "all"
