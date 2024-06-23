@@ -2,7 +2,6 @@ theme = "github_dark"
 
 [editor]
 bufferline = "multiple"
-mouse = false
 line-number = "relative"
 
 [editor.cursor-shape]
