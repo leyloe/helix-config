@@ -18,3 +18,6 @@ insert = "bar"
 
 [editor.whitespace]
 render = "all"
+
+[editor.indent-guides]
+render = true
